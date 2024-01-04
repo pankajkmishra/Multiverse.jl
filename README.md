@@ -1,2 +1,2 @@
 # Multiverse.jl
-Integrated inversion framework for multiple geophysical, geological, and petrophysical data
+Scientific machine learning for solving multiphysics inverse problems in Earth science
