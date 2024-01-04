@@ -1,2 +1,2 @@
 # Multiverse.jl
-Scientific machine learning for solving multiphysics inverse problems in Earth science
+Solving multiphysics inverse problems with Scientific Machine Learning
