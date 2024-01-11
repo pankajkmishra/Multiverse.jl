@@ -1,2 +1,2 @@
 # Multiverse.jl
-Solving multiphysics inverse problems with Scientific Machine Learning
+Solving multiphysics inverse problems with Scientific (physics-informed) Machine Learning
